@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+ul li button{
+    margin-left: 50px;
+}
+
+form{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    margin:auto;
+    top: 30%;
+    left: 12%;
+}
+
+h2, form{
+    display: block;
+}
+
+form{
+    border: solid 2px black;
+}
+
+.done{
+    text-decoration: line-through;
+}
